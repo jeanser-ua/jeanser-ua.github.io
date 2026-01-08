@@ -4,7 +4,7 @@
     <loc>https://jeanser-ua.github.io/</loc>
     <lastmod>2026-01-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://jeanser-ua.github.io/p/levis-511-slim-the-thrill/</loc>
@@ -123,43 +123,43 @@
   <url>
     <loc>https://jeanser-ua.github.io/order/</loc>
     <lastmod>2026-01-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://jeanser-ua.github.io/delivery-and-payment/</loc>
     <lastmod>2026-01-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://jeanser-ua.github.io/about/</loc>
     <lastmod>2026-01-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://jeanser-ua.github.io/contacts/</loc>
     <lastmod>2026-01-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://jeanser-ua.github.io/tablytsia-rozmiriv-levis/</loc>
     <lastmod>2026-01-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://jeanser-ua.github.io/yak-robyty-zamiry-dzhyns-levis/</loc>
     <lastmod>2026-01-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://jeanser-ua.github.io/yak-pereviryty-oryhinalnist-dzhynsiv-levis/</loc>
     <lastmod>2026-01-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
