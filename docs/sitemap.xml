@@ -121,12 +121,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jeanser-ua.github.io/order/</loc>
-    <lastmod>2026-01-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://jeanser-ua.github.io/delivery-and-payment/</loc>
     <lastmod>2026-01-09</lastmod>
     <changefreq>monthly</changefreq>
