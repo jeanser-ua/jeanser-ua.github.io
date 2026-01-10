@@ -37,12 +37,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jeanser-ua.github.io/p/levis-511-slim-kota-kupang/</loc>
-    <lastmod>2026-01-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://jeanser-ua.github.io/p/levis-505-regular-indigo/</loc>
     <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -116,6 +110,12 @@
   </url>
   <url>
     <loc>https://jeanser-ua.github.io/p/levis-505-regular-rinse/</loc>
+    <lastmod>2026-01-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jeanser-ua.github.io/p/levis-511-slim-kota-kupang/</loc>
     <lastmod>2026-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
