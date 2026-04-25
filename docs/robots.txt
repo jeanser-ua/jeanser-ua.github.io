@@ -2,4 +2,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jeanser-ua.github.io/sitemap.xml
+Sitemap: https://jeanser-ua.github.io/sitemap-new.xml
